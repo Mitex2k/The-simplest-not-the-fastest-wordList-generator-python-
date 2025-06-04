@@ -1,5 +1,5 @@
 import time
-
+print("Test")
 def generate(letters, word_length, file):
     amount_of_letters = len(letters)
     total_combinations = amount_of_letters ** word_length
